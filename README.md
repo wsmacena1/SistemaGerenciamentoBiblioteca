@@ -11,3 +11,4 @@ Relatórios básicos, como livros com baixo estoque, livros indisponíveis e emp
 A aplicação está organizada em camadas (Domain, Application, Infrastructure e API), usando Entity Framework Core e o Repository Pattern
 
 O backup se encontra na pasta inicial. Dev.bak
+Para conectar ao banco, configurar na classe \GerenciamentoBiblioteca\Biblioteca.Api\Program.cs, onde se encontra a string de conexão.
