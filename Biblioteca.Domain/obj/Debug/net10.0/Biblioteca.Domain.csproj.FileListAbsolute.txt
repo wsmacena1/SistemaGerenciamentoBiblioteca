@@ -1,0 +1,14 @@
+C:\Projetos\C#\GerenciamentoBiblioteca\Biblioteca.Domain\bin\Debug\net10.0\Biblioteca.Domain.exe
+C:\Projetos\C#\GerenciamentoBiblioteca\Biblioteca.Domain\bin\Debug\net10.0\Biblioteca.Domain.deps.json
+C:\Projetos\C#\GerenciamentoBiblioteca\Biblioteca.Domain\bin\Debug\net10.0\Biblioteca.Domain.runtimeconfig.json
+C:\Projetos\C#\GerenciamentoBiblioteca\Biblioteca.Domain\bin\Debug\net10.0\Biblioteca.Domain.dll
+C:\Projetos\C#\GerenciamentoBiblioteca\Biblioteca.Domain\bin\Debug\net10.0\Biblioteca.Domain.pdb
+C:\Projetos\C#\GerenciamentoBiblioteca\Biblioteca.Domain\obj\Debug\net10.0\Biblioteca.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\C#\GerenciamentoBiblioteca\Biblioteca.Domain\obj\Debug\net10.0\Biblioteca.Domain.AssemblyInfoInputs.cache
+C:\Projetos\C#\GerenciamentoBiblioteca\Biblioteca.Domain\obj\Debug\net10.0\Biblioteca.Domain.AssemblyInfo.cs
+C:\Projetos\C#\GerenciamentoBiblioteca\Biblioteca.Domain\obj\Debug\net10.0\Biblioteca.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\C#\GerenciamentoBiblioteca\Biblioteca.Domain\obj\Debug\net10.0\Biblioteca.Domain.dll
+C:\Projetos\C#\GerenciamentoBiblioteca\Biblioteca.Domain\obj\Debug\net10.0\refint\Biblioteca.Domain.dll
+C:\Projetos\C#\GerenciamentoBiblioteca\Biblioteca.Domain\obj\Debug\net10.0\Biblioteca.Domain.pdb
+C:\Projetos\C#\GerenciamentoBiblioteca\Biblioteca.Domain\obj\Debug\net10.0\Biblioteca.Domain.genruntimeconfig.cache
+C:\Projetos\C#\GerenciamentoBiblioteca\Biblioteca.Domain\obj\Debug\net10.0\ref\Biblioteca.Domain.dll
