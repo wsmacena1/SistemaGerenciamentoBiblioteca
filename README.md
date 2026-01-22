@@ -12,3 +12,5 @@ A aplicação está organizada em camadas (Domain, Application, Infrastructure e
 
 O backup se encontra na pasta inicial. Dev.bak
 Para conectar ao banco, configurar na classe \GerenciamentoBiblioteca\Biblioteca.Api\Program.cs, onde se encontra a string de conexão.
+
+Encerrei o código na parte da criação das funções do relatório, na função de retornar os livros com estoque baixo.
